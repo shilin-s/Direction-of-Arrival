@@ -2,7 +2,9 @@
 DOA estimation algorithm
 
 首次创建时间：2021-11-29
+
 版权所有：哈尔滨工程大学--信息与通信工程学院--雷达与电子战团队
+
 创建人：史林
 文件说明：
 music--多重信号分类算法，包括matlab版本、python版本以及root-MUSIC算法（目前仅上传了matlab版本）
